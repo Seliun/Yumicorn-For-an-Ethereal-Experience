@@ -4,4 +4,4 @@ Yumicorn is a landing page for online food delivery services built with HTML, CS
 
 ## ✨The Look
 
-![Yumicorn Landing Page](.\Website-Image\yumicorn-showoff.png)
+![Yumicorn Landing Page](Website-Image\yumicorn-showoff.png)
